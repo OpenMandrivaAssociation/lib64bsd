@@ -5,7 +5,7 @@ Name:		%name
 Version:	0.3.0
 Release:	%mkrel 1
 Summary:	Library providing BSD-compatible functions for portability
-URL:		http://libbsd.freedesktop.org/
+URL:		https://libbsd.freedesktop.org/
 
 Source0:	http://libbsd.freedesktop.org/releases/libbsd-%{version}.tar.gz
 
