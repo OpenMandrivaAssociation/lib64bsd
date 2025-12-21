@@ -12,6 +12,7 @@ Source0:	http://libbsd.freedesktop.org/releases/libbsd-%{version}.tar.gz
 License:	BSD and ISC and Copyright only and Public Domain
 Group:		System Environment/Libraries
 
+BuildRequires:	make
 %description
 libbsd provides useful functions commonly found on BSD systems, and
 lacking on others like GNU systems, thus making it easier to port
